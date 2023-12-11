@@ -1,0 +1,17 @@
+♦ Basic authentication: Base64 encoding
+
+username: mav@aadi144
+password: 123123456a
+------------------------------
+♦ API key authenticaion
+
+{
+  "apiKey": "cc1bcc64-af48-4eed-859c-f621826935b7"
+}
+---------------------------------------
+♦ Token authentication
+
+{
+  "token":  "9771def8-55b5-4a49-a760-443c7a8a904e"
+  "prefix": "Bearer"
+}
